@@ -1,0 +1,11 @@
+Kirjat:
+
+Nimi, kirjoittaja, vuosi, ISBN, kirjan sisältö lyhyesti (ksl), arvio kirjasta, mahdollinen ohjelmointikielen yhteys, tägit
+
+1. Web security for developers, Malcolm MCDonald, 2020, 978-1-59327-994-3, Amazon rating: 4.4/5 out of 50, Networking & Cloud Computing, tags, ksl
+2. Eloquent Javascript, Marjin Haverbeke, 2011, 978-1-59327-950-9, Amazon rating: 4.6/5 out of 1049, Web Development & Design (Javascript), tags, ksl
+3. Don't make me think: A common sense approuch to web usability, 2nd Edition, Steve Krug, 2000, 978-0-321-96551-6, Amazon rating: 4.5/5 out of 731, Web Development & Design, tags, ksl
+4. A smarter way to learn Javascript: The new approach that uses technology to cut your effort in half, Mark Myers, 2014, 978-1-49740-818-0, Amazon rating: 4.6/5 out of 2474, Computers % Technology (Javascript), tags, ksl
+5. CSS in depth, Keith Grant, 2018, 978-1-61729-345-0, Amazon rating: 4.9/5 out of 60, Programming (CSS), , tags, ksl
+6. Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition, Eric Freeman & Elizabeth Robson, 2020, 978-1-49207-800-5, 4.8/5 out of 217, Programming, tags, ksl
+7. Head First Java: 2nd Edition, Kathy Sierra & Bert Bates, 2005, 978-0-59600-920-5, Amazon rating: 4.5/5 out of 1601, Programming (Java), tags, ksl
